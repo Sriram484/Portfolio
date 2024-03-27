@@ -51,7 +51,7 @@ export const intro = {
 }
 
 export const about = {
-  title: "Who am I???",
+  title: "Who am I",
   description: [
     
 "I am currently studying Bachelor of Computer Science at Sri Krishna College of Engineering and Technology. Alongside my studies, I actively participate in competitive programming, honing my skills in algorithmic problem-solving. I aspire to kickstart my career in React dynamic web development, leveraging my passion for creating engaging and interactive web experiences.",
