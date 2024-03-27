@@ -114,7 +114,7 @@ export const contact = {
   buttons: [
     {
       title: "Email Me",
-      link: "mailto:hashirshoaeb@gmail.com",
+      link: "mailto:sriram.rajkumart@gmail.com",
       isPrimary: true,
     },
     {

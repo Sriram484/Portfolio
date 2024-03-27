@@ -11,7 +11,7 @@ export const Contact = ({ title, description, buttons }) => {
 					<div className="">
 						{buttons.map((value, index) => (
 							(value.isPrimary) ?
-								<Link key={index} href={value.link}>
+								<Link key={index} href={value.link} target="blank">
 									<a className="btn btn-primary my-1 mx-3">
 										{value.title}
 									</a>
