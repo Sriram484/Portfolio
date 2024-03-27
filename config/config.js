@@ -44,7 +44,7 @@ export const intro = {
     },
     {
       title: "Resume",
-      link: "",
+      link: "https://drive.google.com/file/d/1ZaVxCwV-wXTJPzXAsUY4bB6BTjju6Tq2/view?usp=sharing",
       isPrimary: false,
     },
   ],
@@ -100,7 +100,7 @@ export const projects = {
       icons: [
         {
           icon: faAppStore,
-          link: "https://subtle-kringle-41693e.netlify.app/",
+          link: "https://sriramrajkumar.netlify.app/",
         },
         {
           icon: faGithub,
