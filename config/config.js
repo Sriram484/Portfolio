@@ -22,10 +22,14 @@ export const navigation = {
       title: "Links",
       link: "/links",
     },
-    {
-      title: "Blog",
-      link: "https://medium.com/@hashirshoaeb",
-    }
+   {
+    titel: "Coding Ninjas",
+    link : "https://www.codingninjas.com/studio/profile/e259244b-57d5-431c-9f87-de6840676a0f"
+   },
+   {
+    titel: "LeetCode",
+    link : "https://leetcode.com/Sriram_484/"
+   },
   ],
 }
 export const intro = {
