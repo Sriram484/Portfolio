@@ -140,7 +140,7 @@ export const links = {
   cards: [
     {
       title: "My website",
-      link: "#",
+      link: "https://sriramrajkumar.netlify.app/",
     },
     {
       title: "Chatrayans",
