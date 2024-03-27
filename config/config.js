@@ -4,7 +4,7 @@ import { faAppStore, faGithub, faGooglePlay } from '@fortawesome/free-brands-svg
 import { } from '@fortawesome/free-solid-svg-icons';
 
 export const navigation = {
-  name: "Hashir",
+  name: "Sriram",
   links: [
     {
       title: "About",
@@ -114,7 +114,7 @@ export const projects = {
 
 export const contact = {
   title: "Get in touch",
-  description: "Coffee Chat! Feel free to reach out directly by email at hashirshoaeb@gmail.com.Alternatively, you can also reach out to me through LinkedIn for further communication",
+  description: "Coffee Chat! Feel free to reach out directly by email at sriram.rajkumart@gmail.com.Alternatively, you can also reach out to me through LinkedIn for further communication",
   buttons: [
     {
       title: "Email Me",
