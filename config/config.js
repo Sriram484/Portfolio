@@ -96,15 +96,19 @@ export const projects = {
     {
       title: "Riddle Romeo",
       description: 
-      "",
+      "Riddle Romeo is not just a web application; it's a testament to the power of integration and responsive design. With its blend of cutting-edge technologies and user-centric design principles, Riddle Romeo sets a new standard for interactive and engaging online experiences.",
       icons: [
         {
           icon: faAppStore,
-          link: "https://sriramrajkumar.netlify.app/",
+          link: "https://riddle-romeo.netlify.app/",
         },
         {
           icon: faGithub,
-          link: "https://github.com/Sriram484/Portfolio",
+          link: "https://github.com/Sriram484/Riddle_Romeo",
+        },
+        {
+          icon: faGithub,
+          link: "https://github.com/Sriram484/Riddle_Romeo",
         },
       ]
       
