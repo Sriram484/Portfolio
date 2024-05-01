@@ -108,7 +108,7 @@ export const projects = {
         },
         {
           icon: faGithub,
-          link: "https://github.com/Sriram484/Riddle_Romeo",
+          link: "https://github.com/Sriram484/Riddle_Romeo_Login_API/",
         },
       ]
       
