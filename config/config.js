@@ -94,6 +94,22 @@ export const projects = {
       ]
     },
     {
+      title: "Riddle Romeo",
+      description: 
+      "",
+      icons: [
+        {
+          icon: faAppStore,
+          link: "https://sriramrajkumar.netlify.app/",
+        },
+        {
+          icon: faGithub,
+          link: "https://github.com/Sriram484/Portfolio",
+        },
+      ]
+      
+    },
+    {
       title: "Portfolio",
       description: 
       "I've crafted my own portfolio using ReactJS, showcasing my projects and skills as a software developer/freelancer. It offers a personalized platform to exhibit my work effectively.",
